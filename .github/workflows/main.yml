@@ -19,6 +19,6 @@ jobs:
        username: ${{ secrets.FTP_USERNAME }}
        password: ${{ secrets.FTP_PASSWORD }}
        localPath: './'
-       remotePath: '/var/www/html/rajan/live/'
+       remotePath: '/html/rajan/live/'
 
       
